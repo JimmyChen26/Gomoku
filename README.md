@@ -77,7 +77,7 @@
    - Copy to Output Directory：Copy if newer
 4. 按下 Visual Studio 的 Start 按鈕執行遊戲。
 
-<img width="785" height="528" alt="image" src="https://github.com/user-attachments/assets/89cc1127-6652-43f8-b436-2d955fb7eb6b" />
+
 
 
 ## 專案結構
