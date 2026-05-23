@@ -3,6 +3,7 @@
 ## 專案簡介
 
 本專案為 C# Windows Forms 製作的五子棋遊戲。玩家可以在圖形化介面中進行雙人對戰，也可以選擇與 CPU 對戰。遊戲支援簡單、中等、困難三種 CPU 難度，並提供玩家黑棋或白棋選擇、音效控制、重新開始與勝利提示等功能。
+<img width="785" height="528" alt="螢幕擷取畫面 2026-05-23 232045" src="https://github.com/user-attachments/assets/e7a1b852-0546-45ac-90eb-b8e89c6d3f02" />
 
 ## 遊戲特色
 
